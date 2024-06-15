@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanver02&show_icons=true&locale=en" alt="amanver02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanver02&" alt="amanver02" /></p>
+<p> this is my github profile</p>
