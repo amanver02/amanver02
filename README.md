@@ -22,4 +22,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanver02&show_icons=true&locale=en" alt="amanver02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanver02&" alt="amanver02" /></p>
+
+<h2 id="badge-title">Open Source Badges 🪶</h2> 
+<div
+  <a href="https://www.linkedin.com/posts/aman-verma-05b6312a4_im-happy-to-share-that-ive-obtained-a-new-activity-7261326614058131457-TmAx?utm_source=share&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Logo" />
+</a>
+
 <p> this is my github profile</p>
